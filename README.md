@@ -1,2 +1,2 @@
 # PersonalWebsite
-Create personal website using HTML, CSS and Javascript
+Created personal website using HTML, CSS and Javascript
