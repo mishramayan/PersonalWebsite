@@ -219,3 +219,21 @@ a:hover{
   padding: 20px 0;
 
 }
+
+
+
+#testimonials{
+  text-align: center;
+  background-color: #99ffe6;
+  color: white;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
